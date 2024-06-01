@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 5G-AKA Simulation in C
 
 This project provides a simulation of the 5G Authentication and Key Agreement (AKA) protocol implemented in C. The 5G-AKA protocol is used for secure communication in 5G networks, ensuring mutual authentication between the user equipment and the network.
@@ -10,10 +10,9 @@ This project provides a simulation of the 5G Authentication and Key Agreement (A
 - [Project Structure](#project-structure)
 - [Key Features](#key-features)
 
-## Introduction
+## installation
 
-The 5G-AKA protocol is a critical component in the 5G security architecture. This project simulates the 5G-AKA protocol, demonstrating how mutual authentication and key agreement are achieved between the user equipment (UE) and the network. This simulation can be used for educational purposes, research, and testing.
-
+The 5G-AKA protocol is a critical component in the 5G security architecture. This project simulates the 5G-AKA protocol, demonstrating how mutual authentication and key agreement are achieved between the user equipment (UE) and the network.
 ## Installation
 
 ### Prerequisites
@@ -137,4 +136,4 @@ This directory contains test cases and scripts used to verify the correctness of
 - **Educational Tool**: Provides a practical example of the 5G-AKA protocol for learning and research purposes.
 
 ---
-```
+
