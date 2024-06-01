@@ -7,7 +7,7 @@ This project provides a simulation of the 5G Authentication and Key Agreement (A
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
